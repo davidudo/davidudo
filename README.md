@@ -1,4 +1,4 @@
-<a href="#"><img width="70%" height="auto" margin-left="auto" margin-right="auto" src="https://wallup.net/wp-content/uploads/2017/11/22/308555-programming.jpg"/></a>
+<a href="#"><img width="100%" height="auto" src="header-img.jpg"/></a>
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/_davidudo)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/david-udo-1713b3231)
