@@ -1,14 +1,23 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwallup.net%2Fwp-content%2Fuploads%2F2017%2F11%2F22%2F308555-programming-748x421.jpg&imgrefurl=https%3A%2F%2Fwallup.net%2Fprogramming-3%2F&docid=P4VpYoW4sm5gMM&tbnid=QfzJJw1nGXqdxM&vet=1&source=sh%2Fx%2Fim" height="175px"/></a>
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/code_trickster)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/_davidudo)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/david-udo-1713b3231)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=0D76A8)](https://codepen.io/david_udo)
 
-##  About Me
+## 👨‍💻 About Me
 
 Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px">
 
-I’m David, a full-stack developer, creative coder, and self-proclaimed designer who specializes in backend development. I make it my mission to create and design web applications across multiple APIs, third-party integration, and databases.
+I'm David, a Software Engineer who specialises in Backend Engineering. I'm passionate about creating and designing web applications across multiple APIs, third-party integration, and databases. I also love creating and working with useful beautifully designed software applications.
+
+**Here's a quick summary about me**:
+
+- 😊 Pronouns: He/him
+- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022 and also at ALX Africa [Software Engineering Programme](https://www.alxafrica.com/software-engineering-2022) Cohort 9.
+- 🌱 I’m currently learning JavaScript, Reactjs, Nodejs, and Python.
+- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+- 💼 Job interests: Software Engineer, Backend Engineer, or Fullstack Engineer (Intern or Junior level).
+- 📫 You can [view my resume](#) and contact me by emailing udodavid46.ud@gmail.com.
 
 ## &#x1f4c8; GitHub Stats
 
@@ -54,12 +63,10 @@ I’m David, a full-stack developer, creative coder, and self-proclaimed designe
 
 <br>
 
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Yarn-informational?style=flat&logo=yarn&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Amazon_AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=4AB197)
 
