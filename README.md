@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwallup.net%2Fwp-content%2Fuploads%2F2017%2F11%2F22%2F308555-programming-748x421.jpg&imgrefurl=https%3A%2F%2Fwallup.net%2Fprogramming-3%2F&docid=P4VpYoW4sm5gMM&tbnid=QfzJJw1nGXqdxM&vet=1&source=sh%2Fx%2Fim" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://wallup.net/wp-content/uploads/2017/11/22/308555-programming.jpg" height="175px"/></a>
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/_davidudo)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/david-udo-1713b3231)
