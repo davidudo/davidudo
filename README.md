@@ -15,7 +15,7 @@ I'm David, a Software Engineer who specialises in Backend Engineering. I'm passi
 - 🌱 I’m currently learning JavaScript, Reactjs, Nodejs, and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Backend Engineer, or Fullstack Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing udodavid46.ud@gmail.com.
+- 📫 You can [view my resume](https://davidudo.netlify.app/assets/docs/davidudo.pdf) and contact me by emailing udodavid46.ud@gmail.com.
 
 ## &#x1f4c8; GitHub Stats
 
