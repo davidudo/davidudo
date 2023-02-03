@@ -1,70 +1,44 @@
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/_davidudo)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/david-udo-1713b3231)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=0D76A8)](https://codepen.io/david_udo)
+<h1 align="center">Hi 👋, I'm David Udo</h1>
+<h3 align="center">A Software Engineer</h3>
+
+<br>
+<br>
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-udo-1713b3231)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_davidudo)
+[![instagram](https://img.shields.io/badge/instagram-fa7e1e`?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_davidudo)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://davidudo.netlify.app/)
 
 ## 👨‍💻 About Me
 
-Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px">
-
-I'm David, a Software Engineer who specialises in Backend Engineering. I'm passionate about creating and designing web applications across multiple APIs, third-party integration, and databases. I also love creating and working with useful beautifully designed software applications.
+I'm a Software Engineer who specialises in Backend Engineering. I'm passionate about creating and designing web applications across multiple APIs, third-party integration, and databases. I also love creating and working with useful beautifully designed software applications.
 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022 and also at ALX Africa [Software Engineering Programme](https://www.alxafrica.com/software-engineering-2022) Cohort 9.
-- 🌱 I’m currently learning JavaScript, Reactjs, Nodejs, and Python.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+- 💡 Fun fact: I'm currently studying at [AltSchool Africa](https://altschoolafrica.com/schools/engineering) School of Software Engineering Class of 2022 and also at [ALX Africa](https://www.alxafrica.com/software-engineering-2022) Software Engineering Programme Cohort 9.
+- 🌱 I’m currently learning Nodejs and Python.
+- 😊 I’m looking for open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Backend Engineer, or Fullstack Engineer (Intern or Junior level).
-- 📫 You can [view my resume](https://davidudo.netlify.app/assets/docs/davidudo.pdf) and contact me by emailing udodavid46.ud@gmail.com.
+- 📫 You can view my [resume](https://davidudo.netlify.app/assets/docs/davidudo.pdf) and contact me by emailing udodavid46.ud@gmail.com.
+
+<br>
 
 ## &#x1f4c8; GitHub Stats
 
 <br>
 
-<a href="https://github.com/davidudo">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidudo&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-<br>
-
-<a href="https://github.com/davidudo">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=davidudo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="David's GitHub Stats" />
-</a>
-
-<br>
-<br>
-
-## 💼 Skills
-
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-ExpressJS-informational?style=flat&logo=Express&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=Node.JS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+| <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=davidudo&theme=dark&hide_border=true" alt="Talade's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidudo&layout=compact&theme=vision-friendly-dark" alt="Talade's GitHub stats" /> |
+| ------- | ------ |
 
 <br>
 
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Material--UI-informational?style=flat&logo=material--ui&logoColor=white&color=4AB197)
+## 🛠 Tools and Frameworks
 
-<br>
-
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Yarn-informational?style=flat&logo=yarn&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-
+Name | Badges
+--- | --- 
+**Design**  |  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+**Languages**  |  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=ffde57" />  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+**Frameworks, Platforms and Libraries** | <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/django-092e20?style=for-the-badge&logo=django&logoColor=white)
+**Databases**  |  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-00758f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-848484.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+**CI/CD & Hosting**   |  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/render-e71a43.svg?style=for-the-badge&logo=render&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
