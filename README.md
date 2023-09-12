@@ -24,15 +24,6 @@ I'm a Software Engineer who specialises in Backend Engineering. I'm passionate a
 
 <br>
 
-## &#x1f4c8; GitHub Stats
-
-<br>
-
-| <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=davidudo&theme=dark&hide_border=true" alt="Talade's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidudo&layout=compact&theme=vision-friendly-dark" alt="Talade's GitHub stats" /> |
-| ------- | ------ |
-
-<br>
-
 ## 🛠 Tools and Frameworks
 
 Name | Badges
