@@ -1,6 +1,6 @@
 # Hi, I'm David Udo
 
-- I'm a full-Stack software engineer skilled in frontend, backend, DevOps, and cloud technologies.
+- I'm a **full-stack software engineer** skilled in frontend, backend, DevOps, and cloud technologies.
 - I'm passionate about creating efficient, scalable, and user-friendly applications.
 - Currently working in the Web3 space, exploring decentralized technologies.
 - I'm committed to writing clean, maintainable, and efficient code.
