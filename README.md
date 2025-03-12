@@ -9,13 +9,38 @@
 
 ## Skills
 
-- **Programming Languages:** Elixir, ClojureScript, JavaScript, and Python.
-- **Frameworks:** Phoenix, NodeJS, ExpressJS, Django, and React.
-- **Databases:** MongoDB, MySQL, and PostgreSQL.
-- **CI/CD:** GitHub Actions and Docker.
-- **Hosting:** Fly.io, Heroku, Vercel, Netlify, and Render.
-- **Version Control:** Git.
-- **Design:** Figma and Adobe XD.
+#### Programming & Development
+
+- **Languages:** Elixir, Clojure, JavaScript, TypeScript, Python, Dart, Go, Swift, Kotlin, Java.
+- **Frontend:** Phoenix, React, Next.js, Vue.js, Svelte.
+- **Backend:** Phoenix, Express.js, Nest.js, Django, Flask, FastAPI, Gin.
+
+#### DevOps & CI/CD
+
+- **CI/CD:** GitHub Actions, Jenkins, CircleCI.
+- **Containerization & Orchestration:** Docker, Kubernetes.
+- **Infrastructure as Code (IaC):** Terraform, Ansible.
+
+#### Databases & Storage
+
+- **SQL Databases:** PostgreSQL, MySQL, SQLite.
+- **NoSQL Databases:** MongoDB, Firebase, Redis.
+- **Cloud Storage:** Fly.io, Heroku, Vercel, Netlify, Render, AWS, Google Cloud Storage.
+
+#### Version Control & Collaboration
+
+- **Git Platforms:** GitHub, GitLab.
+
+#### Testing & Debugging
+
+- **Testing Frameworks:** Jest, Mocha, PyTest, Cypress.
+- **Linting & Formatting:** ESLint, Prettier, Black.
+
+#### Design
+
+- **Design Tools:** Figma, Adobe XD, Sketch.
+- **User Research & Testing:** Maze, Hotjar, UsabilityHub.
+- **Design Systems & UI Kits:** Material UI, Tailwind UI, Chakra UI.
 
 ## Let's connect
 
