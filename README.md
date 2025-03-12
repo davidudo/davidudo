@@ -52,12 +52,13 @@
 
 ## Fun facts
 
-- I'm an alumni of [AltSchool Africa](https://altschoolafrica.com/schools/engineering) School of Software Engineering Class of 2022 and also at [ALX Africa](https://www.alxafrica.com/software-engineering-2022) Software Engineering Programme Cohort 9.
-- I’m currently learning mobile app development.
-- I’m looking for open source projects, hackathons, and contract projects.
-- Job interests: Software Engineer, Backend Engineer, or Fullstack Engineer (Junior or Mid level).
+- I'm an alumni of [AltSchool Africa](https://altschoolafrica.com/schools/engineering) School of Software Engineering Class of 2022.
+- I'm also an alumni of [ALX Africa](https://www.alxafrica.com/software-engineering-2022) Software Engineering Programme Cohort 9.
+- **Job interests:** software engineer, frontend/backend engineer, full-stack engineer (junior or mid level).
+- I’m open to hackathons, contract projects, and open source projects.
 - You can view my resume [here](https://davidudo.netlify.app/assets/docs/davidudo.pdf).
-- I love reading books and blog posts relating to software development.
+- I enjoy reading books across various fields, including history, psychology, and science.
+- I regularly take computer science courses to expand my knowledge.
 - Sometimes I work on robotic projects for the fun of it.
 
 Thanks for visiting my profile.
