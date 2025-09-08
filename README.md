@@ -31,16 +31,11 @@
 
 - **Git Platforms:** GitHub, GitLab.
 
-#### Testing & Debugging
-
-- **Testing Frameworks:** Jest, Mocha, PyTest, Cypress.
-- **Linting & Formatting:** ESLint, Prettier, Black.
-
-#### Design
+#### Design & Testing
 
 - **Design Tools:** Figma, Adobe XD, Sketch.
-- **User Research & Testing:** Maze, Hotjar, UsabilityHub.
-- **Design Systems & UI Kits:** Material UI, Tailwind UI, Chakra UI.
+- **Testing Frameworks:** Jest, Mocha, PyTest, Cypress.
+- **Linting & Formatting:** ESLint, Prettier, Black.
 
 ## Let's connect
 
